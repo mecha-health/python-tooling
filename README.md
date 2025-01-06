@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 <div style="text-align: center;" align="center">
   <img src="https://raw.githubusercontent.com/UCL-ARC/python-tooling/main/images/logo.svg" alt="UCL ARC Python tooling logo" width="120"/>
-  <h1> UCL ARC Python Recommendations</h1>
+  <h1> Mecha Health Python Recommendations</h1>
 </div>
 <!-- markdownlint-restore -->
 
