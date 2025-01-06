@@ -24,30 +24,7 @@
 
 {{cookiecutter.project_short_description}}
 
-This project is developed in collaboration with the
-[Centre for Advanced Research Computing](https://ucl.ac.uk/arc), University
-College London.
-
 ## About
-
-### Project Team
-
-{{cookiecutter.author_given_names}} {{cookiecutter.author_family_names}} ([{{cookiecutter.author_email}}](mailto:{{cookiecutter.author_email}}))
-
-<!-- TODO: how do we have an array of collaborators ? -->
-
-### Research Software Engineering Contact
-
-Centre for Advanced Research Computing, University College London
-([arc.collaborations@ucl.ac.uk](mailto:arc.collaborations@ucl.ac.uk))
-
-## Built With
-
-<!-- TODO: can cookiecutter make a list of frameworks? -->
-
-- [Framework 1](https://something.com)
-- [Framework 2](https://something.com)
-- [Framework 3](https://something.com)
 
 ## Getting Started
 
