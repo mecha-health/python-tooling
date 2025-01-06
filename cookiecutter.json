@@ -5,13 +5,13 @@
   "project_name": "Python Template",
   "project_slug": "{{cookiecutter.project_name.lower().replace(' ', '-').replace('_', '-')}}",
   "package_name": "{{cookiecutter.project_slug.replace('-', '_')}}",
-  "project_short_description": "A cookiecutter package with UCL ARC recommendations.",
+  "project_short_description": "A cookiecutter package with Mecha Health Inc. recommendations.",
   "initialise_git_repository": true,
-  "deploy_docs_to_github_pages": true,
+  "deploy_docs_to_github_pages": false,
   "github_owner": "{{cookiecutter.author_given_names.lower().replace(' ', '-')}}-{{cookiecutter.author_family_names.lower().replace(' ', '-')}}",
   "min_python_version": ["3.11", "3.12", "3.13"],
   "max_python_version": ["3.13", "3.12", "3.11"],
-  "license": ["MIT", "BSD-3", "GPL-3.0"],
+  "license": ["Reserved", "MIT", "BSD-3", "GPL-3.0"],
   "funder": "",
   "__repo_name": "{{cookiecutter.github_owner}}/{{cookiecutter.project_slug}}",
   "__repo_url": "https://github.com/{{cookiecutter.__repo_name}}",
@@ -28,7 +28,7 @@
     "github_owner": "GitHub user or organization name which will be owner of repository",
     "min_python_version": "Minimum Python version supported by package",
     "max_python_version": "Maximum Python version supported by package",
-    "license": "Which open-source license to release package under",
+    "license": "Which license to release package under",
     "funder": "Organisation(s) to acknowledge for funding of project (optional)"
   }
 }
